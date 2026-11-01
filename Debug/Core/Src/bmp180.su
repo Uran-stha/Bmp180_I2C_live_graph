@@ -1,0 +1,6 @@
+bmp180.c:14:26:rd	40	static
+bmp180.c:19:26:wr	32	static
+bmp180.c:24:19:BMP180_Init	48	static
+bmp180.c:51:19:BMP180_ReadTemperature	32	static
+bmp180.c:69:19:BMP180_ReadPressure	64	static
+bmp180.c:108:7:BMP180_Altitude	16	static
